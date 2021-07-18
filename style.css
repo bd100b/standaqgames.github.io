@@ -172,8 +172,8 @@
 	font-family: 'Open Sans', sans-serif;
 }
 
-.steps li {
-	
+.steps {
+padding-left: 2rem;	
 }
 
 .tick ul li:before {
